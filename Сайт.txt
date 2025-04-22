@@ -1,0 +1,85 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>TRAP INDUSTRIES</title>
+<link rel="icon" type="image/x-icon" href="https://i.pinimg.com/280x280_RS/81/ca/52/81ca52bafc355c0fc833b1c6a52af97a.jpg">
+<style>
+.button-container {
+        text-align: center;
+    }
+        body {
+            background-image: url('my background.png');
+            background-size: cover;
+            background-position: center;
+            background-repeat: repeat;
+            margin: 0;
+            height: 100vh;
+        }
+</style>
+</head>
+
+<div style="text-align: center;">
+  <img src="TRAP INDUSTRIES.png" style="height: 600px;">
+</div>
+<div class="button-container" style="display: flex; justify-content: space-between; flex-wrap: wrap; padding: 0 300px;">
+  <a href="INFO.html">
+    <img src="INFO Button.png" alt="Перейти на новую страницу" style="height: 150px;" />
+  </a>
+  <a href="3D MODELS.html">
+    <img src="3D MODELS Button.png" alt="Перейти на новую страницу" style="height: 150px;" />
+  </a>
+  <a href="GAME.html">
+    <img src="GAME Button.png" alt="Перейти на новую страницу" style="height: 150px;" />
+  </a>
+</div>
+<style>
+  .button-container {
+    display: flex;
+    gap: 20px; /* Отступ между кнопками */
+  }
+
+  .button-container a {
+    display: inline-block;
+  }
+
+  .button-container img {
+    transition: transform 0.3s ease; /* Плавное изменение масштаба */
+  }
+
+  .button-container img:hover {
+    transform: scale(1.1); /* Увеличивает изображение на 10% при наведении */
+  }
+</style>
+       <h2 style="font-family:verdana; color:white; font-style:italic; font-size:22px; text-align:center;">MORE INFORMATION:</h2> 
+<div class="button-container" style="display: flex; justify-content: space-between; flex-wrap: wrap; padding: 0 600px;">
+  <a href="https://gamejolt.com/@C4ndy_official">
+    <img src="GAMEJOLT Button.png" alt="GAMEJOLT" style="height: 100px;" />
+  </a>
+  <a href="https://www.instagram.com/c4ndy.official_/">
+    <img src="INSTAGRAM Button.png" alt="INSTAGRAM" style="height: 100px;" />
+  </a>
+</div>
+
+<style>
+  .button-container {
+    display: flex;
+    gap: 20px; /* Отступ между кнопками */
+  }
+
+  .button-container a {
+    display: inline-block;
+  }
+
+  .button-container img {
+    transition: transform 0.3s ease; /* Плавное изменение масштаба */
+  }
+
+  .button-container img:hover {
+    transform: scale(1.1); /* Увеличивает изображение на 10% при наведении */
+  }
+</style>
+<img src="put.png" style="height: 500px; float: right; margin-top: -200px;">
+
+</body>
+</html>
+

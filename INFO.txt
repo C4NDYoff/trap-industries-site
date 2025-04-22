@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>INFO</title>
+    <link rel="icon" type="image/x-icon" href="https://i.pinimg.com/280x280_RS/81/ca/52/81ca52bafc355c0fc833b1c6a52af97a.jpg">
+    <style>
+.button-container {
+        text-align: center;
+    }
+        body {
+            background-image: url('my background.png');
+            background-size: cover;
+            background-position: center;
+            background-repeat: repeat;
+            margin: 0;
+            height: 100vh;
+        }
+</style>
+</head>
+<body>
+<h1 style="font-family:verdana; color:white; text-align:center;">TRAP INDUSTRIES</h1>
+<h2 style="font-family:verdana; color:white; text-align:center; font-weight:bold;"> This is a company that appeared in 2023 and works on 3D design and programming.</h2>
+<h2 style="font-family:verdana; color:white; text-align:center; font-weight:bold;">The company is currently working on a project called FUTURE ILLUSION.</h2>
+<div class="button-container" style="display: flex; justify-content: center; flex-wrap: wrap; padding: 0 300px;">
+<a href="https://gamejolt.com/p/game-menu-fnar-future-illusion-ureibnvm">
+  <img src="https://m.gjcdn.net/fireside-post-image/900/36646748-cacet9ui-v4.webp" style="height:500px; display:block; margin: 0 auto;" alt="centered image">
+</a>
+</div>
+<style>
+.button-container {
+    display: flex;
+    gap: 20px; /* Отступ между кнопками */
+  }
+
+ .button-container a {
+    display: inline-block;
+  }
+
+  .button-container img {
+    transition: transform 0.3s ease; /* Плавное изменение масштаба */
+  }
+
+  .button-container img:hover {
+    transform: scale(0.9); /* Увеличивает изображение на 10% при наведении */
+  }
+</style>
+<h2 style="font-family:verdana; color:white; text-align:center; font-weight:bold;">FUTURE ILLUSION - is a game in which the main character will return to his mechanical creations, which he tried to destroy due to a failed experiment. However, for an unknown reason, someone restores and protects everything. The main character will have to investigate.</h2>
+      <div style="display: flex; justify-content: space-between; flex-wrap: wrap; padding: 0 50px;">
+  <img src="https://m.gjcdn.net/fireside-post-image/900/34231787-xhppgmna-v4.webp" style="height: 320px;">
+  <img src="https://m.gjcdn.net/fireside-post-image/400/34231788-wgkjgidp-v4.webp" style="height: 320px;">
+  <img src="https://m.gjcdn.net/fireside-post-image/400/34231790-7jxytzta-v4.webp" style="height: 320px;">
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSUh31TMUGvvEwh8oKz5j0hSxmhtSCPgVuGRQ&s" style="height: 320px;">
+  <img src="https://m.gjcdn.net/fireside-post-image/400/34231789-aez9yy7i-v4.webp" style="height: 320px;">
+  <img src="https://m.gjcdn.net/fireside-post-image/900/34231785-3mfvkxvc-v4.webp" style="height: 320px;">
+</div>
+</body>
+</html>
